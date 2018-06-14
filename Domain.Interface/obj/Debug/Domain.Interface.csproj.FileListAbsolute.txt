@@ -1,0 +1,15 @@
+c:\users\winnie\source\repos\Crown\Domain.Interface\bin\Debug\Domain.Interface.dll
+c:\users\winnie\source\repos\Crown\Domain.Interface\bin\Debug\Domain.Interface.pdb
+c:\users\winnie\source\repos\Crown\Domain.Interface\bin\Debug\Domain.Entities.dll
+c:\users\winnie\source\repos\Crown\Domain.Interface\bin\Debug\Domain.Entities.pdb
+c:\users\winnie\source\repos\Crown\Domain.Interface\obj\Debug\Domain.Interface.csprojResolveAssemblyReference.cache
+c:\users\winnie\source\repos\Crown\Domain.Interface\obj\Debug\Domain.Interface.csproj.CoreCompileInputs.cache
+c:\users\winnie\source\repos\Crown\Domain.Interface\obj\Debug\Domain.Interface.csproj.CopyComplete
+c:\users\winnie\source\repos\Crown\Domain.Interface\obj\Debug\Domain.Interface.dll
+c:\users\winnie\source\repos\Crown\Domain.Interface\obj\Debug\Domain.Interface.pdb
+c:\users\winnie\source\repos\Crown\Domain.Interface\bin\Debug\Domain.Interface.dll.config
+c:\users\winnie\source\repos\Crown\Domain.Interface\bin\Debug\EntityFramework.dll
+c:\users\winnie\source\repos\Crown\Domain.Interface\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\winnie\source\repos\Crown\Domain.Interface\bin\Debug\Domain.Entities.dll.config
+c:\users\winnie\source\repos\Crown\Domain.Interface\bin\Debug\EntityFramework.xml
+c:\users\winnie\source\repos\Crown\Domain.Interface\bin\Debug\EntityFramework.SqlServer.xml

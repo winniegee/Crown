@@ -1,0 +1,24 @@
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Service.dll
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Service.pdb
+c:\users\winnie\source\repos\Crown\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+c:\users\winnie\source\repos\Crown\Service\obj\Debug\Service.dll
+c:\users\winnie\source\repos\Crown\Service\obj\Debug\Service.pdb
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Service.dll.config
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Domain.Entities.dll
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Domain.Interface.dll
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\EntityFramework.dll
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Infrastructure.Data.dll
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Service Interface.dll
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Domain.Entities.pdb
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Domain.Entities.dll.config
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Domain.Interface.pdb
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Domain.Interface.dll.config
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Infrastructure.Data.pdb
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Infrastructure.Data.dll.config
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Service Interface.pdb
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\Service Interface.dll.config
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\EntityFramework.xml
+c:\users\winnie\source\repos\Crown\Service\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\winnie\source\repos\Crown\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\users\winnie\source\repos\Crown\Service\obj\Debug\Service.csproj.CopyComplete
